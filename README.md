@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+⚡ Fun fact: I always have multiple iterations of personal web site. Current one is based of WordPress, previous one was static site.
+
+
 <!--
 **idzan/idzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
