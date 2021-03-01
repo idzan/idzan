@@ -1,19 +1,11 @@
-### Hi there 👋
+# Hi there 👋, you found me here on GitHub
 
-⚡ Fun fact: I always have multiple iterations of personal web site. Current one is based of WordPress, previous one was static site.
+⚡ Fun fact: I always have multiple iterations of personal web site. Current one is based of WordPress, previous one was static site.  
+⚡ Fun fact #2: Favorite food is something that #Bosnians can agree that is perfect: chevaps with garlic.  
+⚡ Fun fact #3: If you need somebody who can do multiple things at once, well, you found me 😆. My workplace is messy as I always do more then one thing at once. Seriously 🤪
 
+### 📫 Find me on:
 
-<!--
-**idzan/idzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Facebook](https://fb.me/Idzan.Marko.Official)  
+[Twitter](https://twitter.com/idzanmarko)  
+[DEV Community Profile](https://dev.to/idzan)
